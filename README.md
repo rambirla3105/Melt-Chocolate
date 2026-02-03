@@ -20,7 +20,7 @@ A high-end, immersive landing page built with React, Tailwind CSS, and GSAP. Thi
 
 ## 💻 Installation & Setup
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/melt-chocolate-landing-page.git
+git clone https://github.com/rambirla3105/melt-chocolate.git
 
 ### 2️⃣ Install Dependencies
 npm install
@@ -29,7 +29,7 @@ npm install
 npm run dev
 
 # 📜 License & Usage (IMPORTANT)
-This project was created by Rupz Web for educational purposes.
+This project was created by Ram Birla
 
 ⚠️ **Terms of Use:**
 
@@ -40,11 +40,9 @@ This project was created by Rupz Web for educational purposes.
 ✅ **Credit Required:** If you use this code in your portfolio or as a reference in a public project, attribution to Rupz Web is mandatory.
 
 📌 Please provide credit as follows:
-Design and Development by **Rupz Web**
+Design and Development by **RAM BIRLA**
 
 # 👩‍💻 Author
-Built with ❤️ by Rupz Web
+Built with ❤️ by Ram Birla
 
-🌐 GitHub: https://github.com/rupzweb
-
-📺 YouTube: https://youtube.com/@rupz_web
+🌐 GitHub: https://github.com/rambirla3105
